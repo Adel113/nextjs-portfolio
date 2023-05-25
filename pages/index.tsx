@@ -17,7 +17,7 @@ export default function Home() {
       <main >
       <div className="resume">
       <div className="resume_left">
-        <div className="resume_profile">
+        <div className="resume_profile"> 
           
           
         </div>
@@ -25,7 +25,7 @@ export default function Home() {
           <div className="resume_item resume_info">
             <div className="title">
               <p className="bold_nom">Adel SIDI AHMED</p>
-              <p className="regular">Recherche de stage en Développeur web</p>
+              <p className="regular">Recherche de stage en Développement web</p>
             </div>
             <ul>
               <li>
