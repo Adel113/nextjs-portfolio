@@ -18,6 +18,8 @@ export default function Home() {
       <div className="resume">
       <div className="resume_left">
         <div className="resume_profile"> 
+     
+        <img src="https://imagizer.imageshack.com/img922/8049/nOYoWK.png" />
           
           
         </div>
