@@ -254,10 +254,10 @@ export default function Home() {
             <p className="bold">Centre dintérêt</p>
           </div>
           <ul>
-            <li><i className="fas fa-film"></i></li>
-            <li><i className="fas fa-futbol"></i></li>
-            <li><i className="fas fa-music"></i></li>
-            <li><i className="fas fa-plane-departure"></i></li>
+            <li><i className="fas fa-film"></i>Développemnt web</li>
+            <li><i className="fas fa-futbol"></i>WebDesign</li>
+            <li><i className="fas fa-music"></i>Infographie</li>
+            <li><i className="fas fa-plane-departure"></i>Sport</li>
           </ul>
         </div>
       </div>
