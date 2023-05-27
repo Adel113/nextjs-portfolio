@@ -251,7 +251,7 @@ export default function Home() {
         </div>
         <div className="resume_item resume_hobby">
           <div className="title">
-            <p className="bold">Centre dintérêt</p>
+            <p className="bold">Centres dintérêt</p>
           </div>
           <ul>
             <li><i className="fas fa-film"></i>Développemnt web</li>
