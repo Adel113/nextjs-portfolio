@@ -216,6 +216,20 @@ export default function Home() {
                 <p>- Diplôme fédéral.</p>
               </div>
             </li>
+            <li>
+              <div className="date">Juin - Août 2023</div>
+              <div className="info">
+                <p className="semi-bold">Stage en développement web</p>
+                <p className="logotravail"></p>
+                <p>
+                  - Création et Refonte de site web , Photoshop, Canva, Seo , Réseaux Sociaux.
+                </p>
+                <p>- Technologies : HTML/CSS/JS , Boostrap , Référencement Seo , Facebook buisness</p>
+                <p>- 4 fois champion régional.</p>
+                <p>- Participations à des stages internationaux.</p>
+                <p>- Diplôme fédéral.</p>
+              </div>
+            </li>
           </ul>
         </div>
         <div className="resume_item resume_education">
@@ -247,6 +261,7 @@ export default function Home() {
                 <p>Lycée Mustapha Ben Boulaid.</p>
               </div>
             </li>
+            
           </ul>
         </div>
         <div className="resume_item resume_hobby">
