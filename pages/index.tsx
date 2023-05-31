@@ -27,7 +27,7 @@ export default function Home() {
           <div className="resume_item resume_info">
             <div className="title">
               <p className="bold_nom">Adel SIDI AHMED</p>
-              <p className="regular">Recherche de stage en Développement web</p>
+              <p className="regular">Recherche dune alternance</p>
             </div>
             <ul>
               <li>
@@ -164,10 +164,7 @@ export default function Home() {
           </div>
           <p>
             Je suis actuellement étudiant en première année à lécole supérieure
-            dinformatique Enigma et je suis à la recherche dun stage de 2 à 3
-            mois dans le domaine de linformatique pour renforcer mes
-            compétences et acquérir une expérience professionnelle
-            significative.
+            dinformatique Enigma et je suis à la recherche dune alternance à partir de Septembre 2023.
           </p>
         </div>
         <div className="resume_item resume_work">
@@ -225,9 +222,6 @@ export default function Home() {
                   - Création et Refonte de site web , Photoshop, Canva, Seo , Réseaux Sociaux.
                 </p>
                 <p>- Technologies : HTML/CSS/JS , Boostrap , Référencement Seo , Facebook buisness</p>
-                <p>- 4 fois champion régional.</p>
-                <p>- Participations à des stages internationaux.</p>
-                <p>- Diplôme fédéral.</p>
               </div>
             </li>
           </ul>
